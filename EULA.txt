@@ -1,0 +1,37 @@
+FILE MORPH PRO - END USER LICENSE AGREEMENT (EULA)
+
+Copyright (c) 2026 GHOST-PARTISAN. All Rights Reserved.
+
+1. PROPRIETARY RIGHTS
+File Morph Pro (the "Software") is licensed, not sold. This Software is the proprietary 
+property of GHOST-PARTISAN. All intellectual property rights, including copyrights, 
+trade secrets, and trademarks, are retained by the developer.
+
+2. PERMITTED USE
+You are granted a non-exclusive, non-transferable license to use the 
+Software on a single computer for personal or commercial productivity purposes.
+
+3. RESTRICTIONS
+You may not:
+   a. Decompile, reverse engineer, or disassemble the Software.
+   b. Modify, adapt, or create derivative works based upon the Software.
+   b. Distribute, rent, lease, or sell the Software to third parties without 
+      explicit written consent.
+   c. Remove any proprietary notices or labels on the Software.
+
+4. NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. GHOST-PARTISAN 
+DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO 
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO 
+THE QUALITY AND PERFORMANCE OF THE SOFTWARE IS WITH YOU.
+
+5. LIMITATION OF LIABILITY
+IN NO EVENT SHALL GHOST-PARTISAN BE LIABLE FOR ANY DAMAGES WHATSOEVER 
+(INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, 
+BUSINESS INTERRUPTION, OR LOSS OF DATA) ARISING OUT OF THE USE OR INABILITY 
+TO USE THIS SOFTWARE.
+
+6. TERMINATION
+This license is effective until terminated. Your rights under this license will 
+terminate automatically without notice if you fail to comply with any term(s) 
+of this license.
