@@ -6,7 +6,7 @@ This repository hosts the official landing page for **File Morph Pro**, a profes
 
 
 
-#### [**🌐 View the Live Site**](https://www.google.com/search?q=https://your-github-username.github.io/your-repo-name/)
+#### [**🌐 View the Live Site**](https://www.google.com/search?q=h[https://ghost-partisan.github.io/file-morph-pro/)
 
 
 
@@ -86,7 +86,7 @@ This project utilizes several open-source libraries under the Apache License 2.0
 
 
 
-For technical issues or license inquiries, please use the contact link on the [**🌐 Live Landing Page.**](https://www.google.com/search?q=https://your-github-username.github.io/your-repo-name/)
+For technical issues or license inquiries, please use the contact link on the [**🌐 Live Landing Page.**](https://www.google.com/search?q=[https://ghost-partisan.github.io/file-morph-pro/)
 
 
 
