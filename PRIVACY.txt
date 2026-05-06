@@ -1,0 +1,32 @@
+FILE MORPH PRO - PRIVACY POLICY
+
+Last Updated: 2026
+
+1. ZERO DATA COLLECTION
+File Morph Pro is designed as a standalone, offline utility. We do not collect, store, 
+or transmit any of the files you process (Images, Documents, or Data) to our servers or any third parties.
+All file "morphing" and OCR processing occurs strictly on your local hardware.  
+
+
+2. INTERNET USAGE
+The Software only requires an internet connection for the initial one-time license activation. 
+After activation, the software can function entirely offline. No telemetry, usage statistics, or "phone home" tracking is implemented.  
+
+3. THIRD-PARTY PAYMENT PROCESSING
+Payments and license delivery are handled by PayHip. When you purchase the Software, 
+PayHip collects your email address and payment information to facilitate the transaction and deliver your license key. 
+Please refer to PayHip’s Privacy Policy for how they manage that data. GHOST-PARTISAN does not see or store your credit card or banking details.  
+
+4. HARDWARE IDENTIFICATION
+To prevent unauthorized distribution, the Software generates a unique Machine ID based on your hardware. 
+This ID is used solely for license verification and cannot be used to identify you personally or track your activities.  
+
+5. REFUND POLICY
+Due to the digital nature of the Software and the provision of a standalone executable, all sales are final. 
+Refunds are only considered if the Software is proven to be incompatible with the user's hardware and support cannot resolve the issue.
+
+6. CONTACT
+partisan.dev@proton.me
+
+
+Copyright (c) 2026 GHOST-PARTISAN. All Rights Reserved.
