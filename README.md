@@ -6,7 +6,7 @@ This repository hosts the official landing page for **File Morph Pro**, a profes
 
 
 
-#### [**🌐 View the Live Site**]([https://ghost-partisan.github.io/file-morph-pro/])
+#### [**🌐 View the Live Site**]https://ghost-partisan.github.io/file-morph-pro/
 
 
 
